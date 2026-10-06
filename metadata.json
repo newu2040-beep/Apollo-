@@ -1,0 +1,6 @@
+{
+  "name": "APOLLO",
+  "description": "Universal photo converter, high-resolution export studio, image editor, and format transformation utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
